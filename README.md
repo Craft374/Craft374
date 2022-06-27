@@ -1,8 +1,25 @@
-### HELLOOOOOOOOOOOOOOO
-my name is Craft374
+# 💫 About Me:
+I'm korean student and developer
 
-헬로오오오오옹
 
-평범하게 파이썬이랑 코툴린으로 이것저것 만드는 학생임
+## 🌐 Socials:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/JCraft374) 
 
-![내 머리](https://user-images.githubusercontent.com/66468997/119484562-1c70e380-bd91-11eb-9e78-db007df8d9a1.png)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Craft374&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Craft374&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Craft374&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Craft374&icon=0&color=6)](https://visitcount.itsvg.in)
+
+  ## 💰 
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Rotashape) 
+
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
