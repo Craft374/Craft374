@@ -1,3 +1,6 @@
+# 고칠예정
+- ${\textsf{\color{red}언젠가 이 페이지 고칠꺼임!!!!!!!!!!!!!!!!!!}}$
+
 # 💫 About Me:
 I'm korean student and developer
 
