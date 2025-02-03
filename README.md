@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-저는 2006년생 개발자 입니다.
+코딩을 잘하고 싶어서 씹덕이 되어버린 개발자 입니다.
 
 # 🌐 SNS: 
 <a href="mailto:Leejeongwoo1103@gmail.com">
