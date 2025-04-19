@@ -3,7 +3,8 @@
 </div>
 
 # 💫 About Me:
-코딩을 잘하고 싶어서 씹덕이 되어버린 개발자 입니다.
+코딩을 잘하고 싶은 개발자입니다.
+참고로 프사는 코딩 고인물들은 애니 캐틀 쓴다길래 저도 한번 해봤습니다.
 
 # 🌐 SNS: 
 <a href="mailto:Leejeongwoo1103@gmail.com">
@@ -21,9 +22,3 @@
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Craft374&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-
-<p>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCraft374%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
-  </a>
-</p>
