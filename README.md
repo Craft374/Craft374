@@ -4,7 +4,6 @@
 
 # 💫 About Me:
 코딩을 잘하고 싶은 개발자입니다.
-참고로 프사는 코딩 고인물들은 애니 캐틀 쓴다길래 저도 한번 해봤습니다.
 
 # 🌐 SNS: 
 <a href="mailto:Leejeongwoo1103@gmail.com">
