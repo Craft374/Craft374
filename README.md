@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Craft374&textBg=false&section=header&reversal=false" alt="Header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Craft374&textBg=false&section=header&reversal=false" alt="Header">
 </div>
 
 # 💫 About Me:
-코딩을 잘하고 싶은 개발자입니다.
+코딩을 잘하고 싶은 개발자 Craft374입니다.
 
 # 🎓 Education
 * 강상초등학교
