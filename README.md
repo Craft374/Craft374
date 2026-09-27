@@ -6,7 +6,7 @@
   >
 
   <h3>사용자에게 도움이 되는 소프트웨어를 만드는 개발자 Craft374입니다.</h3>
-  <p>Python과 C#을 중심으로 개발하며, 데이터사이언스와 AI를 공부하고 있습니다.</p>
+  <p>Python·C#·JavaScript를 중심으로 개발하며, 데이터사이언스와 AI를 공부하고 있습니다.</p>
 </div>
 
 ## About Me
@@ -14,13 +14,23 @@
 사용자가 실제로 편하게 사용할 수 있는 프로그램을 만드는 데 관심이 있습니다.  
 새로운 기술을 직접 프로젝트에 적용하며 꾸준히 배우고 있습니다.
 
+## Projects
+
+- **[Accord](https://github.com/Craft374/Accord)** — 음성통화·화면공유·채팅·마크다운 메모·공동 그림판을 하나로 묶은 셀프 호스팅 협업 앱
+- **[MEMO](https://github.com/Craft374/memo)** / **[Image Manager](https://github.com/Craft374/MediaManger)** — macOS 네이티브 SwiftUI 유틸리티
+
+### Contributions
+
+- **[transformer-explainer-korean](https://craft374.github.io/transformer-explainer-korean/)** — Transformer 시각화 학습 자료 한국어화
+- **[agent-toast](https://github.com/Craft374/agent-toast)** — Claude Code / Codex CLI 데스크톱 알림 도구
+
 ## Education
 
 - 연세대학교 미래캠퍼스 데이터사이언스학부 재학 (2025–현재)
 
 ## Awards & Honors
 
-- **인기상** — 2026년 전국 대학생 게임 전시회 제4회 UNICON, TEAM ASDF
+- **인기상** — 2026년 전국 대학생 게임 전시회 제4회 UNICON, TEAM ASDF (*Echoes of Farewell*)
 - **최우수상** — 2025년 연세대학교 미래캠퍼스 AI 사피엔스 경진대회
 - **우수상** — 2019년 제2회 메이커 히어로즈 대회, System Halted 팀
 
@@ -29,10 +39,12 @@
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
 </p>
 
 ### Hardware
@@ -45,7 +57,7 @@
 ## Contact
 
 <p>
-  <a href="mailto:Leejeongwoo1103@gmail.com">
+  <a href="mailto:leejeongwoo1103@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://youtube.com/c/JCraft374">
