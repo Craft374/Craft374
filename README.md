@@ -28,9 +28,11 @@
 
 - 연세대학교 미래캠퍼스 데이터사이언스학부 재학 (2025–현재)
 
-## Awards & Honors
+## Awards & Activities
 
 - **인기상** — 2026년 전국 대학생 게임 전시회 제4회 UNICON, TEAM ASDF (*Echoes of Farewell*)
+- **본선 진출** — 2026년 게임인재원 AI 해커톤 (*불고기 버거 세트 하나*)
+- **전시** — 2026년 제5회 대구콘텐츠페어 DCCF, TEAM ASDF (*Echoes of Farewell*)
 - **최우수상** — 2025년 연세대학교 미래캠퍼스 AI 사피엔스 경진대회
 - **우수상** — 2019년 제2회 메이커 히어로즈 대회, System Halted 팀
 
